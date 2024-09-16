@@ -1,0 +1,6 @@
+
+
+define when a ray hits a plane:
+    get the normal vector of the plane
+    change the ray to a vector and a magnitude and an origin
+    then use formula to check when a ray hits a plane
